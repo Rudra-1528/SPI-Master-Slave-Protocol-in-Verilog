@@ -13,7 +13,7 @@ This project implements a complete, parameterized **Serial Peripheral Interface 
 The design was first verified using a **Loopback Testbench** where the `MOSI` output was wired directly to the `MISO` input to ensure 100% data reconstruction. It was then synthesized in Quartus with zero timing violations or multiple-driver conflicts.
 
 ### 1. Vivado Simulation Waveform
-Screenshot 2026-09-03 194122.png
+![Simulation Waveform]()
 
 ### 2. Vivado RTL Schematic
 *(Drag and drop your RTL Schematic screenshot here!)*
