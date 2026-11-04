@@ -16,7 +16,6 @@ The design was first verified using a **Loopback Testbench** where the `MOSI` ou
 ![Simulation Waveform](Screenshot 2026-09-03 194122.png)
 
 ### 2. Vivado RTL Schematic
-*(Drag and drop your RTL Schematic screenshot here!)*
 
 ### 3. Hardware Deployment (Intel MAX 10 DE10-Lite)
-*(Drag and drop a photo of your physical FPGA board here, showing the switches set to a binary pattern and the 7-segment displays showing the correct Hexadecimal equivalent!)*
+
